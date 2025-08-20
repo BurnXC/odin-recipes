@@ -1,0 +1,41 @@
+body {
+    font-family: Garamond;
+    background-color: crimson;
+    box-sizing: border-box;
+    color: hotpink;
+}
+
+body .shadow {
+    text-shadow: 2px 1px 0px darkgreen;
+}
+
+div {
+    background-color: hotpink;
+    width: 300px;
+    padding: 16px 24px;
+    margin: 0 auto;
+    border: 3px dotted darkgreen;
+    color: darkgreen;
+    text-align: center;
+}
+
+.shadow {
+    text-align: center;
+    border: 3px dotted hotpink;
+    margin: 24px 200px;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+li {
+    margin: 5px;
+}
+
+p {
+    background-color: darkgreen;
+    margin: 24px 16px;
+    padding: 24px 16px;
+}
